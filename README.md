@@ -5,6 +5,8 @@ Originally created by Raptor831, RealFuels-Stock is a set of configs for the [Re
 
 Raptor831 was last seen more than a year ago, so i decided to adopt RF-Stock and update it to the newest version
 
+Added BDB Configs by Katikar. No promises made for proper balance, just working parts.
+
 Installation
 ------------
 
