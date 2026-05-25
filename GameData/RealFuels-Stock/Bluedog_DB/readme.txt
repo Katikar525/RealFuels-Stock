@@ -5,9 +5,7 @@ I don't know what I'm doing but hopefully this can help a few people enjoy RealF
 
 -Katikar
 
-P.S.
 
-Please direct all issues and questions related to BDB configs to me, Bellabong @ https://github.com/Bellabong/RealFuels-Stock/issues
 
 Changelog:
 1.0
